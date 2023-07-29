@@ -15,7 +15,7 @@ public class SpringDemoApplication {
 	@GetMapping(value = "/name")
 	public String getName(){
 		System.out.println("Controller  getname method invoked");
-		return  "Hello how are you? ";
+		return  "Hello , Good Morning";
 
 //		git init
 //		git add README.md
