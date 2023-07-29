@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>spring-demo</finalName>
+		<finalName>spring-demo-cicd</finalName>
 
 	</build>
 
